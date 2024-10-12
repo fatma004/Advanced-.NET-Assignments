@@ -16,6 +16,13 @@ namespace assignment_Day1
         {
             get { return DateTime.Now.Year - Year; }
         }
+        public Car(string make, string model, int year, int mileage)
+        {
+           Make = make;
+           Model = model;
+           Year = year;
+           Mileage = mileage;
+        }
         public void Drive(int distance)
         {
             if (distance < 0)
