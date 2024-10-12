@@ -34,7 +34,7 @@ namespace assignment_Day1
             }
             if (amount > Balance)
             {
-                throw new InvalidOperationException("..");
+                throw new InvalidOperationException("Invalid Transaction!");
             }
             UpdateBalance(-amount);
         }
