@@ -1,0 +1,14 @@
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\bin\Debug\net8.0\Day2_MediaPlayerPlugins.exe
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\bin\Debug\net8.0\Day2_MediaPlayerPlugins.deps.json
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\bin\Debug\net8.0\Day2_MediaPlayerPlugins.runtimeconfig.json
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\bin\Debug\net8.0\Day2_MediaPlayerPlugins.dll
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\bin\Debug\net8.0\Day2_MediaPlayerPlugins.pdb
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\obj\Debug\net8.0\Day2_MediaPlayerPlugins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\obj\Debug\net8.0\Day2_MediaPlayerPlugins.AssemblyInfoInputs.cache
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\obj\Debug\net8.0\Day2_MediaPlayerPlugins.AssemblyInfo.cs
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\obj\Debug\net8.0\Day2_MediaPlayerPlugins.csproj.CoreCompileInputs.cache
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\obj\Debug\net8.0\Day2_MediaPlayerPlugins.dll
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\obj\Debug\net8.0\refint\Day2_MediaPlayerPlugins.dll
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\obj\Debug\net8.0\Day2_MediaPlayerPlugins.pdb
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\obj\Debug\net8.0\Day2_MediaPlayerPlugins.genruntimeconfig.cache
+C:\Users\Fatma.Kamel\source\repos\Day2_MediaPlayerPlugins\Day2_MediaPlayerPlugins\obj\Debug\net8.0\ref\Day2_MediaPlayerPlugins.dll

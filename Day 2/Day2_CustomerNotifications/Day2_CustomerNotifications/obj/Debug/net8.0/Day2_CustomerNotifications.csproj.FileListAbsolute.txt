@@ -1,0 +1,14 @@
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\obj\Debug\net8.0\Day2_CustomerNotifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\obj\Debug\net8.0\Day2_CustomerNotifications.AssemblyInfoInputs.cache
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\obj\Debug\net8.0\Day2_CustomerNotifications.AssemblyInfo.cs
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\obj\Debug\net8.0\Day2_CustomerNotifications.csproj.CoreCompileInputs.cache
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\bin\Debug\net8.0\Day2_CustomerNotifications.exe
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\bin\Debug\net8.0\Day2_CustomerNotifications.deps.json
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\bin\Debug\net8.0\Day2_CustomerNotifications.runtimeconfig.json
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\bin\Debug\net8.0\Day2_CustomerNotifications.dll
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\bin\Debug\net8.0\Day2_CustomerNotifications.pdb
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\obj\Debug\net8.0\Day2_CustomerNotifications.dll
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\obj\Debug\net8.0\refint\Day2_CustomerNotifications.dll
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\obj\Debug\net8.0\Day2_CustomerNotifications.pdb
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\obj\Debug\net8.0\Day2_CustomerNotifications.genruntimeconfig.cache
+C:\Users\Fatma.Kamel\source\repos\Day2_CustomerNotifications\Day2_CustomerNotifications\obj\Debug\net8.0\ref\Day2_CustomerNotifications.dll

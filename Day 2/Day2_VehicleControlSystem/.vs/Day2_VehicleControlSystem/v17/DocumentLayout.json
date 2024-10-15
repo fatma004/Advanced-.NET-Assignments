@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_VehicleControlSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF67AB62-2485-45FA-BC60-B136850161A2}|Day2_VehicleControlSystem\\Day2_VehicleControlSystem.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_vehiclecontrolsystem\\day2_vehiclecontrolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF67AB62-2485-45FA-BC60-B136850161A2}|Day2_VehicleControlSystem\\Day2_VehicleControlSystem.csproj|solutionrelative:day2_vehiclecontrolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF67AB62-2485-45FA-BC60-B136850161A2}|Day2_VehicleControlSystem\\Day2_VehicleControlSystem.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_vehiclecontrolsystem\\day2_vehiclecontrolsystem\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF67AB62-2485-45FA-BC60-B136850161A2}|Day2_VehicleControlSystem\\Day2_VehicleControlSystem.csproj|solutionrelative:day2_vehiclecontrolsystem\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF67AB62-2485-45FA-BC60-B136850161A2}|Day2_VehicleControlSystem\\Day2_VehicleControlSystem.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_vehiclecontrolsystem\\day2_vehiclecontrolsystem\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF67AB62-2485-45FA-BC60-B136850161A2}|Day2_VehicleControlSystem\\Day2_VehicleControlSystem.csproj|solutionrelative:day2_vehiclecontrolsystem\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF67AB62-2485-45FA-BC60-B136850161A2}|Day2_VehicleControlSystem\\Day2_VehicleControlSystem.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_vehiclecontrolsystem\\day2_vehiclecontrolsystem\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF67AB62-2485-45FA-BC60-B136850161A2}|Day2_VehicleControlSystem\\Day2_VehicleControlSystem.csproj|solutionrelative:day2_vehiclecontrolsystem\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF67AB62-2485-45FA-BC60-B136850161A2}|Day2_VehicleControlSystem\\Day2_VehicleControlSystem.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_vehiclecontrolsystem\\day2_vehiclecontrolsystem\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF67AB62-2485-45FA-BC60-B136850161A2}|Day2_VehicleControlSystem\\Day2_VehicleControlSystem.csproj|solutionrelative:day2_vehiclecontrolsystem\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_VehicleControlSystem\\Day2_VehicleControlSystem\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Day2_VehicleControlSystem\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_VehicleControlSystem\\Day2_VehicleControlSystem\\Motorcycle.cs",
+              "RelativeToolTip": "Day2_VehicleControlSystem\\Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:06:29.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_VehicleControlSystem\\Day2_VehicleControlSystem\\Truck.cs",
+              "RelativeDocumentMoniker": "Day2_VehicleControlSystem\\Truck.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_VehicleControlSystem\\Day2_VehicleControlSystem\\Truck.cs",
+              "RelativeToolTip": "Day2_VehicleControlSystem\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:05:19.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_VehicleControlSystem\\Day2_VehicleControlSystem\\Car.cs",
+              "RelativeDocumentMoniker": "Day2_VehicleControlSystem\\Car.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_VehicleControlSystem\\Day2_VehicleControlSystem\\Car.cs",
+              "RelativeToolTip": "Day2_VehicleControlSystem\\Car.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:59:14.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_VehicleControlSystem\\Day2_VehicleControlSystem\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Day2_VehicleControlSystem\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_VehicleControlSystem\\Day2_VehicleControlSystem\\Vehicle.cs",
+              "RelativeToolTip": "Day2_VehicleControlSystem\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:51:37.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_VehicleControlSystem\\Day2_VehicleControlSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_VehicleControlSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_VehicleControlSystem\\Day2_VehicleControlSystem\\Program.cs",
+              "RelativeToolTip": "Day2_VehicleControlSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:37:51.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

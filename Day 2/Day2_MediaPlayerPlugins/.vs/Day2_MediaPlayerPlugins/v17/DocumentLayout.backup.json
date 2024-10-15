@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_MediaPlayerPlugins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DD30-BC33-4FC9-9AD3-A4739D49C779}|Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_mediaplayerplugins\\day2_mediaplayerplugins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA4DD30-BC33-4FC9-9AD3-A4739D49C779}|Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins.csproj|solutionrelative:day2_mediaplayerplugins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DD30-BC33-4FC9-9AD3-A4739D49C779}|Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_mediaplayerplugins\\day2_mediaplayerplugins\\mediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA4DD30-BC33-4FC9-9AD3-A4739D49C779}|Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins.csproj|solutionrelative:day2_mediaplayerplugins\\mediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DD30-BC33-4FC9-9AD3-A4739D49C779}|Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_mediaplayerplugins\\day2_mediaplayerplugins\\imedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA4DD30-BC33-4FC9-9AD3-A4739D49C779}|Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins.csproj|solutionrelative:day2_mediaplayerplugins\\imedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DD30-BC33-4FC9-9AD3-A4739D49C779}|Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_mediaplayerplugins\\day2_mediaplayerplugins\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA4DD30-BC33-4FC9-9AD3-A4739D49C779}|Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins.csproj|solutionrelative:day2_mediaplayerplugins\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DD30-BC33-4FC9-9AD3-A4739D49C779}|Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_mediaplayerplugins\\day2_mediaplayerplugins\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA4DD30-BC33-4FC9-9AD3-A4739D49C779}|Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins.csproj|solutionrelative:day2_mediaplayerplugins\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MediaPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins\\MediaPlayer.cs",
+              "RelativeDocumentMoniker": "Day2_MediaPlayerPlugins\\MediaPlayer.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins\\MediaPlayer.cs",
+              "RelativeToolTip": "Day2_MediaPlayerPlugins\\MediaPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:27:08.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins\\Video.cs",
+              "RelativeDocumentMoniker": "Day2_MediaPlayerPlugins\\Video.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins\\Video.cs",
+              "RelativeToolTip": "Day2_MediaPlayerPlugins\\Video.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:25:07.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins\\Audio.cs",
+              "RelativeDocumentMoniker": "Day2_MediaPlayerPlugins\\Audio.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins\\Audio.cs",
+              "RelativeToolTip": "Day2_MediaPlayerPlugins\\Audio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:23:38.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMedia.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins\\IMedia.cs",
+              "RelativeDocumentMoniker": "Day2_MediaPlayerPlugins\\IMedia.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins\\IMedia.cs",
+              "RelativeToolTip": "Day2_MediaPlayerPlugins\\IMedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:22:44.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_MediaPlayerPlugins\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_MediaPlayerPlugins\\Day2_MediaPlayerPlugins\\Program.cs",
+              "RelativeToolTip": "Day2_MediaPlayerPlugins\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:22:10.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

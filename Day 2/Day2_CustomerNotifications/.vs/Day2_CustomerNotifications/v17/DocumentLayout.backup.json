@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_CustomerNotifications\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{705FB47A-DCAA-491A-891F-2E40EA3E3102}|Day2_CustomerNotifications\\Day2_CustomerNotifications.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_customernotifications\\day2_customernotifications\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705FB47A-DCAA-491A-891F-2E40EA3E3102}|Day2_CustomerNotifications\\Day2_CustomerNotifications.csproj|solutionrelative:day2_customernotifications\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FB47A-DCAA-491A-891F-2E40EA3E3102}|Day2_CustomerNotifications\\Day2_CustomerNotifications.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_customernotifications\\day2_customernotifications\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705FB47A-DCAA-491A-891F-2E40EA3E3102}|Day2_CustomerNotifications\\Day2_CustomerNotifications.csproj|solutionrelative:day2_customernotifications\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FB47A-DCAA-491A-891F-2E40EA3E3102}|Day2_CustomerNotifications\\Day2_CustomerNotifications.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_customernotifications\\day2_customernotifications\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705FB47A-DCAA-491A-891F-2E40EA3E3102}|Day2_CustomerNotifications\\Day2_CustomerNotifications.csproj|solutionrelative:day2_customernotifications\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FB47A-DCAA-491A-891F-2E40EA3E3102}|Day2_CustomerNotifications\\Day2_CustomerNotifications.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_customernotifications\\day2_customernotifications\\customernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705FB47A-DCAA-491A-891F-2E40EA3E3102}|Day2_CustomerNotifications\\Day2_CustomerNotifications.csproj|solutionrelative:day2_customernotifications\\customernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705FB47A-DCAA-491A-891F-2E40EA3E3102}|Day2_CustomerNotifications\\Day2_CustomerNotifications.csproj|c:\\users\\fatma.kamel\\source\\repos\\day2_customernotifications\\day2_customernotifications\\inotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705FB47A-DCAA-491A-891F-2E40EA3E3102}|Day2_CustomerNotifications\\Day2_CustomerNotifications.csproj|solutionrelative:day2_customernotifications\\inotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_CustomerNotifications\\Day2_CustomerNotifications\\CustomerNotification.cs",
+              "RelativeDocumentMoniker": "Day2_CustomerNotifications\\CustomerNotification.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_CustomerNotifications\\Day2_CustomerNotifications\\CustomerNotification.cs",
+              "RelativeToolTip": "Day2_CustomerNotifications\\CustomerNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:56:50.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SMSNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_CustomerNotifications\\Day2_CustomerNotifications\\SMSNotification.cs",
+              "RelativeDocumentMoniker": "Day2_CustomerNotifications\\SMSNotification.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_CustomerNotifications\\Day2_CustomerNotifications\\SMSNotification.cs",
+              "RelativeToolTip": "Day2_CustomerNotifications\\SMSNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:54:19.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_CustomerNotifications\\Day2_CustomerNotifications\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "Day2_CustomerNotifications\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_CustomerNotifications\\Day2_CustomerNotifications\\EmailNotification.cs",
+              "RelativeToolTip": "Day2_CustomerNotifications\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:53:10.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotify.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_CustomerNotifications\\Day2_CustomerNotifications\\INotify.cs",
+              "RelativeDocumentMoniker": "Day2_CustomerNotifications\\INotify.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_CustomerNotifications\\Day2_CustomerNotifications\\INotify.cs",
+              "RelativeToolTip": "Day2_CustomerNotifications\\INotify.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:52:03.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_CustomerNotifications\\Day2_CustomerNotifications\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_CustomerNotifications\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatma.Kamel\\source\\repos\\Day2_CustomerNotifications\\Day2_CustomerNotifications\\Program.cs",
+              "RelativeToolTip": "Day2_CustomerNotifications\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:49:03.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
